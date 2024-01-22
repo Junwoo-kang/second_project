@@ -5,8 +5,7 @@
 ##  프로젝트 소개 
 ![시스템 프로세스](readme_image/a.PNG)  
 
-<a href="https://drive.google.com/file/d/1Pdt8rNXoo7mZznG5XDXsVw1NwMi4ak95/view?usp=drive_link">📌 프로젝트 전체 PPT 보기</a>📌 
-
+<a href="https://drive.google.com/file/d/1KNCtEVMjgb-_PK2dbBusQsx2LOx4h4aN/view?usp=drive_link">📌 프로젝트 전체 PPT 보기</a>📌 
 
 ## 📚 개발환경
 
